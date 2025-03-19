@@ -1,7 +1,13 @@
-👋 Hi, I'm Udhayakumar (@Udhaya007Kumar)
-🌟 About Me
-🚀 Full Stack Developer | Passionate about Web Development & UI/UX
-🔍 Always exploring the latest trends in MERN Stack & AI-based projects
-🎨 I design & build user-friendly, responsive web applications
-📚 Currently learning DSA, Redux, and API integrations
-☕ Fun Fact: I love debugging complex issues while enjoying a cup of coffee!
+# Hi, I'm Udhaya Kumar 👋
+🚀 Full Stack Developer | MERN Stack | UI/UX Enthusiast  
+
+🔹 2+ years of experience in web development  
+🔹 Skilled in React.js, Node.js, MongoDB, Redux, Tailwind CSS  
+🔹 Passionate about building user-friendly applications  
+
+## 🌟 Projects
+- 🎬 [ReelRemy - Streaming Guide](https://www.reelremy.in/)
+- 🍽️ [Recipes App](https://indianspciesrecipesfd.vercel.app/)
+- 🤖 [WiseAnt AI](https://ai.wiseant.co/)
+
+📫 Reach me at **udhaya.rajendr@gmail.com**
