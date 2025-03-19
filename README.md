@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Udhayakumar (@Udhaya007Kumar)
-🌟 About Me
+## 🌟 About Me
 🚀 Full Stack Developer | Passionate about Web Development & UI/UX
 🔍 Always exploring the latest trends in MERN Stack & AI-based projects
 🎨 I design & build user-friendly, responsive web applications
