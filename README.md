@@ -15,6 +15,6 @@
 ## 🌐 Connect with Me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://udhayaportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udhaya-kumar-rajendran-834372354)
 [![Email](https://img.shields.io/badge/Contact_Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udhaya.rajendr@gmail.com)
 
