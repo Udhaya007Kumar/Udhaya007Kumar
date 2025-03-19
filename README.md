@@ -10,4 +10,4 @@
 📫 Email: udhaya.rajenr@gmail.com
 🌐 Portfolio: https://udhayaportfolio.vercel.app/
 🔗 LinkedIn/GitHub/Twitter: https://www.linkedin.com/in/udhaya-kumar-rajendran-834372354?original_referer=https%3A%2F%2Fudhayaportfolio.vercel.app%2F
-⚡ Fun Fact: Debugging makes me feel like a detective! 🕵️‍♂️
+
