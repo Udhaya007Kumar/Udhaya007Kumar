@@ -1,8 +1,8 @@
 # Hi, I'm Udhaya Kumar 👋
-🚀 Full Stack Developer | MERN Stack | UI/UX Enthusiast  
+🚀  Software Enginee | Full Stack Developer | MERN Stack  
 
 🔹 4+ years of experience in web development  
-🔹 Skilled in React.js, Node.js, MongoDB, Redux,Mysql,Tailwind CSS  
+🔹 Skilled in React.js, Node.js,Python,Mysql, MongoDB, Redux,JavaScript,
 🔹 Passionate about building user-friendly applications  
 
 ## 🌟 Projects
