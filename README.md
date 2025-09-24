@@ -10,7 +10,7 @@
 - 🍽️ [Recipes App](https://indianspciesrecipesfd.vercel.app/)
 - 🤖 [WiseAnt AI](https://ai.wiseant.co/)
 
-📫 Reach me at **udhaya.rajendr@gmail.com**
+
 
 ## 🌐 Connect with Me:
 
